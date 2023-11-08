@@ -1,6 +1,6 @@
 # Prompt Engineering for Paraphrase Generation
 
-This repository contains the code, data, and results of our study on the use of prompt engineering to enhance the paraphrase generation capabilities of AI chatbots. Our work was presented at [Conference Name].
+This repository contains the code, data, and results of our study on the use of prompt engineering to enhance the paraphrase generation capabilities of AI chatbots. Our work was presented at [8 th International Conference on Computer Science and Engineering UBMK 2023](https://ubmk.org.tr/).
 
 ## Overview
 
